@@ -59,7 +59,7 @@
   "devDependencies": {
     "@babel/core": "^7.26",
     "@types/react": "~18.3",
-    "typescript": "^5.3"
+    "typescript": "^5.7"
   },
   "private": true
 }
