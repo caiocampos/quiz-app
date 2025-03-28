@@ -48,7 +48,7 @@
     "react-native": "0.77",
     "react-native-reanimated": "~3.17",
     "react-native-safe-area-context": "5.3",
-    "react-native-screens": "^4.9",
+    "react-native-screens": "^4.10",
     "react-native-svg": "15.11",
     "react-native-web": "~0.19",
     "tailwind-merge": "^3.0",
