@@ -26,7 +26,7 @@
     "@react-navigation/native": "^7.1",
     "@rn-primitives/avatar": "~1.1",
     "@rn-primitives/portal": "~1.2",
-    "@rn-primitives/progress": "~1.1",
+    "@rn-primitives/progress": "~1.2",
     "@rn-primitives/slot": "~1.1",
     "@rn-primitives/tooltip": "~1.1",
     "@rn-primitives/types": "~1.1",
