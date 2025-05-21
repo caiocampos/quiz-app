@@ -28,7 +28,7 @@
     "@rn-primitives/portal": "~1.2",
     "@rn-primitives/progress": "~1.2",
     "@rn-primitives/slot": "~1.1",
-    "@rn-primitives/tooltip": "~1.1",
+    "@rn-primitives/tooltip": "~1.2",
     "@rn-primitives/types": "~1.1",
     "class-variance-authority": "^0.7",
     "clsx": "^2.1",
