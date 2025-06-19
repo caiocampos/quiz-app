@@ -40,7 +40,7 @@
     "expo-splash-screen": "~0.30",
     "expo-status-bar": "~2.2",
     "expo-system-ui": "~5.0",
-    "expo-web-browser": "~14.1",
+    "expo-web-browser": "~14.2",
     "lucide-react-native": "^0.516",
     "nativewind": "^4.1",
     "react": "18.3",
