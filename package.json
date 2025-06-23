@@ -47,7 +47,7 @@
     "react-dom": "18.3",
     "react-native": "0.77",
     "react-native-reanimated": "~3.18",
-    "react-native-safe-area-context": "5.4",
+    "react-native-safe-area-context": "5.5",
     "react-native-screens": "^4.11",
     "react-native-svg": "15.12",
     "react-native-web": "~0.20",
